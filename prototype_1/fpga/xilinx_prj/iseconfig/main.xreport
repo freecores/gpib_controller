@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-01-05T20:16:41</DateModified>
+  <DateModified>2013-01-05T23:24:20</DateModified>
   <ModuleName>main</ModuleName>
   <SummaryTimeStamp>2012-02-13T21:38:35</SummaryTimeStamp>
-  <SavedFilePath>/home/andrzej/apaluch/projects/elektronika/GPIB/prototype_1/fpga/proto1/iseconfig/main.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/andrzej/apaluch/projects/elektronika/GPIB/prototype_1/fpga/proto1/</ImplementationReportsDirectory>
+  <SavedFilePath>/home/andrzej/apaluch/projects/elektronika/GPIB_fpga/xilinx_prj/iseconfig/main.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/andrzej/apaluch/projects/elektronika/GPIB_fpga/xilinx_prj/</ImplementationReportsDirectory>
   <DateInitialized>2012-01-25T02:08:45</DateInitialized>
   <EnableMessageFiltering>true</EnableMessageFiltering>
  </header>
